@@ -57,7 +57,8 @@ Features
 - log in/out
 - admin distinction for future website expansion
 - user authentication (this was included as I had previosuly coded this work and so did not take up any development time)
-
+- take quiz/quiz format and rules becoming of a professinal online muitipule choise quiz.
+- direct link from frontend to backend.
 
 
 Support
