@@ -52,6 +52,14 @@ For example being very familure with TDD I would have created mock objects tests
 There are also several design choices such as the results display I would have coded in a more elegent future expansion way.
 
 
+Features
+--------
+- log in/out
+- admin distinction for future website expansion
+- user authentication (this was included as I had previosuly coded this work and so did not take up any development time)
+
+
+
 Support
 -------
 
